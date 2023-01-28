@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-I am Muhammad Almahmoud, a **Jonior Frontend Engineer** based out of Berlin working as a freelancer. Having around 2 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Muhammad Almahmoud, a **Jonior Frontend Engineer** working as a freelancer. Having around 2 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamd-almahmod-1b08a825b)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ## Skills
 
@@ -23,13 +23,10 @@ I am Muhammad Almahmoud, a **Jonior Frontend Engineer** based out of Berlin work
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 📝 Top Blog Posts
-
--   [8 React Open-Source projects to learn and become a React.js Developer](https://medium.com/datadriveninvestor/8-react-open-source-projects-to-learn-and-become-a-react-js-developer-8376107730c4)
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=almohamd668_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almohamd668=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+
