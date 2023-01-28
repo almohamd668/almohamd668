@@ -26,7 +26,7 @@ I am Muhammad Almahmoud, a **Jonior Frontend Engineer** working as a freelancer.
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=almohamd668=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almohamd668=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=almohamd668&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almohamd668&layout=compact&theme=prussian)
 
 
