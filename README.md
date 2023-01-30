@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Muhammad Almahmoud, a **Jonior Frontend Engineer** working as a freelancer. Having around 2 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail.
+I am Muhammad Almahmoud, a **Jonior Frontend Engineer** working as a freelancer. Having around 2 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamd-almahmod-1b08a825b)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
